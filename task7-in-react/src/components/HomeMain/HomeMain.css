@@ -1,0 +1,41 @@
+.H-Ca{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+}
+.sum-ca{
+    background-color: #18185e;
+    display: flex;
+    justify-content: space-between;
+    padding:50px 100px;
+   
+}
+.titlicc{
+    display: flex;
+    padding: 50px 100px 0 100px;
+    justify-content: space-between;
+}
+.bac1{
+    background-color: #fff;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+}
+.forw1{
+    background-color:#384bff;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+   
+}
+.backfor{
+    padding: 50px 0;
+}
+.HN-TIT{
+    width: 400px;
+}
+.iframe{
+ display: flex;
+ justify-content: center;
+ bottom: 8%;
+ transform: translate(0,8%);

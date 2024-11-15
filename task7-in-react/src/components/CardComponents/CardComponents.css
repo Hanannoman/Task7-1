@@ -1,0 +1,52 @@
+
+
+.HN-card{
+  width:250px;
+  column-gap: 50px;  
+}
+.hn-ca{
+  width:250px;
+  column-gap: 50px;
+  border: 1px solid #c9d5fd;  
+  background-color: #f3f7fb;
+  border-radius: 10px;
+  padding: 10px 5px;
+ 
+}
+.hn-ca .back{
+  padding: 10px ;
+}
+
+.HN-card img{
+    border-radius: 10px;
+    width: 250px;
+    height: 300px;
+}
+.HN-card .back{
+    background-color: #1640ca;;
+    text-align: center;
+    border-radius:10px ;
+    color: #f3f7fb;
+}
+.boot{
+  display: none;
+}
+.boot1{
+  border-radius: 50px;
+  width: 150px;
+  height: 40px;
+  border: 1px solid #c9d5fd; 
+  background-color: #f3f7fb; 
+}
+.vid{
+  width:250px;
+  column-gap: 50px; 
+}
+.vid .back h4{ 
+  color: #f4f4f4;
+  
+}
+.vid .back {
+  color:rgba(255, 255, 255, 0.721);
+
+}

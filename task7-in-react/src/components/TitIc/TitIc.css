@@ -1,0 +1,45 @@
+.icon{
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    color: #384bff;
+   
+
+}
+.icon1{
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+   
+
+}
+.color1{
+    color: #fff;
+}
+.color{
+    color: black;
+}
+
+.p{
+    color: #384bff;
+}
+.p1{
+    color: #fff;
+}
+
+.icon1 h2{
+    color: #fff;
+}
+.icp{
+    display: flex;
+ 
+   
+    
+}
+.icp1{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    padding: 50px 0 0 0; 
+}

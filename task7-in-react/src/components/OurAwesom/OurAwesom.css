@@ -1,0 +1,31 @@
+.titawe{
+    display: flex;
+    justify-content: center;
+   flex-direction: column;
+   align-items: center;
+}
+.MY{
+    display: flex;
+    border:1px solid #c9d5fd;
+    width: 150px;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+   
+    margin:  10px  5px ;
+    padding: 18px 5px 0 5px;
+  
+
+}
+.month{
+    background-color:#384bff;
+    border-radius: 15px;
+    padding: 0 5px;
+    color: #fff;
+    
+}
+.pho{
+    width: 150px;
+}
+

@@ -1,0 +1,29 @@
+.log1{
+
+display: flex;
+}
+.log{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    text-align: center;
+    display: flex;
+    font-weight: 600;
+    font-size: 35px;
+    padding: 0 20px;
+}
+.log img{
+    width: 40px;
+    
+}
+.tit{
+    text-align: center;
+    display: flex;
+    font-weight: 60;
+    padding: 15px 20px;
+    
+    color: #384bff;
+}

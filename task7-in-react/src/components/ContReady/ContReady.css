@@ -1,0 +1,31 @@
+
+   
+
+.HTN-form{
+    width:400px;
+    padding: 50px 0 0 0;
+   
+}
+.HTN-form p{
+    color:#676666;
+}
+.label{display: flex;}
+.H-cf {
+    background-color: rgb(56 75 255);
+    width: 50%;
+    border-radius: 10px;
+    
+
+}
+.Inf{
+    border-top: 1px solid #f9f1f1;
+    border-bottom: 1px solid #f9f1f1;
+    padding: 10px 0 0 0;
+
+}
+
+.FV{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px 10px 150px;
+}

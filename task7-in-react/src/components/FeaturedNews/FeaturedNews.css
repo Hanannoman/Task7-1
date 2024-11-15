@@ -1,0 +1,40 @@
+.bac{
+    background-color: #fff;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+}
+.forw{
+    background-color:#384bff;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+   
+}
+.photoo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+   
+}
+.photo1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+    top:-20%;
+    transform: translate(0,-20%);    
+   
+}
+.Or{
+    left: 8%;
+    transform: translate(8%);
+}
+.Or1{
+    left: -8%;
+    transform: translate(-8%);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px 10px 100px;
+}
